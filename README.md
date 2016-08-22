@@ -8,7 +8,7 @@ All work is within the Sender file.
 
 # What was done
 
- __4 Classes to compute the inputs from the web server were written in order to provide output content for the respetive Json class bellow.__
+ __4 Classes to compute the inputs from the web server were written in order to provide output content for the respetive Json classes in the next topic bellow. The computation classes are:__
 
 - RevString
 - NeedleInHaystack
